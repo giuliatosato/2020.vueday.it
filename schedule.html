@@ -1,0 +1,78 @@
+---
+title: Schedule
+---
+
+<div class="limit limit--top-margin">
+
+  {% include schedule/intro.html date='April 12th' %}
+
+  <div class="schedule" data-dates="4-12">
+    <table class="schedule__table">
+      <thead>
+        {% include schedule/header.html tracks='1' %}
+      </thead>
+      <tbody>
+        {% include schedule/event.html time='09:15 - 09:45' title='Check-in' fill='true' %}
+        {% include schedule/event.html time='09:45 - 09:55' title='GrUSP presentation' fill='true' %}
+
+        {% include schedule/talk.html time='10:00 - 10:45' title='Vuenited we stand' keynote='true' fill='true' %}
+        {% include schedule/talk.html time='10:50 - 11:20' title='Vuex Modules in practice' fill='true' %}
+
+        {% include schedule/pause.html time='11:20 - 11:45' title='Short break' icon="coffee" fill='true' %}
+
+        {% include schedule/talk.html time='11:45 - 12:30' title='Nuxt.js - Why? How? Oh yeah!' fill='true' %}
+        {% include schedule/talk.html time='12:35 - 13:05' title='Getting started with nuxt.js + static sites' fill='true' %}
+
+        {% include schedule/pause.html time='13:05 - 14:30' title='Lunch + Lightning talks' icon="food" fill='true' %}
+
+        {% include schedule/talk.html time='14:30 - 15:00' title='Vue your Media with Accessibility (m16y)' fill='true' %}
+        {% include schedule/talk.html time='15:05 - 15:50' title='A taste of hardware connectivity on the web with Vue' fill='true' %}
+
+        {% include schedule/pause.html time='15:50 - 16:15' title='Coffee break' icon="coffee" fill='true' %}
+
+        {% include schedule/talk.html time='16:15 - 17:00' title='Refactor legacy code, Vue that was easy!' fill='true' %}
+        {% include schedule/talk.html time='17:05 - 17:50' title="Vue at Scale for L'Oréal" fill='true' %}
+
+        {% include schedule/pause.html time='17:50 - 18:00' title='Bye bye from GrUSP' icon="bar" fill='true' %}
+        {% include schedule/pause.html time='18:00 - 19:30' title='Happy hour!' icon="bar" fill='true' %}
+      </tbody>
+    </table>
+  </div>
+
+  <div class="schedule schedule--mobile" data-dates="4-12">
+    <table class="schedule__table">
+      <thead>
+        {% include schedule/header.html track='1' %}
+      </thead>
+      <tbody>
+        {% include schedule/event.html time='09:15 - 09:45' title='Check-in' fill='true' %}
+        {% include schedule/event.html time='09:45 - 09:55' title='GrUSP presentation' fill='true' %}
+
+        {% include schedule/talk.html time='10:00 - 10:45' title='Vuenited we stand' keynote='true' fill='true' %}
+        {% include schedule/talk.html time='10:50 - 11:20' title='Vuex Modules in practice' fill='true' %}
+
+        {% include schedule/pause.html time='11:20 - 11:45' title='Short break' icon="coffee" fill='true' %}
+
+        {% include schedule/talk.html time='11:45 - 12:30' title='Nuxt.js - Why? How? Oh yeah!' fill='true' %}
+        {% include schedule/talk.html time='12:35 - 13:05' title='Getting started with nuxt.js + static sites' fill='true' %}
+
+        {% include schedule/pause.html time='13:05 - 14:30' title='Lunch + Lightning talks' icon="food" fill='true' %}
+
+        {% include schedule/talk.html time='14:30 - 15:00' title='Vue your Media with Accessibility (m16y)' fill='true' %}
+        {% include schedule/talk.html time='15:05 - 15:50' title='A taste of hardware connectivity on the web with Vue' fill='true' %}
+
+        {% include schedule/pause.html time='15:50 - 16:15' title='Coffee break' icon="coffee" fill='true' %}
+
+        {% include schedule/talk.html time='16:15 - 17:00' title='Refactor legacy code, Vue that was easy!' fill='true' %}
+        {% include schedule/talk.html time='17:05 - 17:50' title="Vue at Scale for L'Oréal" fill='true' %}
+
+        {% include schedule/pause.html time='17:50 - 18:00' title='Bye bye from GrUSP' icon="bar" fill='true' %}
+        {% include schedule/pause.html time='18:00 - 19:30' title='Happy hour!' icon="bar" fill='true' %}
+      </tbody>
+    </table>
+  </div>
+
+</div>
+
+{% include index/newsletter.html %}
+{% include index/sponsors.html %}

@@ -1,0 +1,24 @@
+name: VueDay
+og_image: http://2020.vueday.it/img/themes/vueday/background_fb.jpg
+og_description: VueDay the first international conference in Italy entirely about Vue.js
+slug: vueday
+url: https://2020.vueday.it
+where_when: Verona, April 3rd 2020
+year: 2020
+since:
+call_for_paper_url:
+call_for_paper: false
+training_available: false
+talks_available: false
+schedule_available: false
+
+iubenda:
+  cookiePolicyId: 49761585
+  siteId: 1473899
+  lang: en
+  enableRemoteConsent: true
+  localConsentDomain: vueday.it
+  rebuildIframe: true
+
+google:
+  tag_manager_id: GTM-T7KBBJX

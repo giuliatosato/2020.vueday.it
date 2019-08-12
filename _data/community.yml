@@ -1,0 +1,48 @@
+# place images in:
+# img/conf-name/community/file.jpg
+# description is actually the company the speaker is working for
+list:
+  -
+    name: Vue.js Barcelona
+    image: vuejs-barcelona.svg
+    site: https://www.meetup.com/VueJS-BCN/
+
+  -
+    name: Vue.js Basel
+    image: vuejs-basel.svg
+    site: https://www.meetup.com/Vue-Basel/
+
+  -
+    name: Vue.js Bulgaria
+    image: vuejs-bulgaria.svg
+    site: https://vuebulgaria.com/
+
+  -
+    name: Vue.js Dublin
+    image: vuejs-dublin.svg
+    site: http://www.vuejsdublin.com/
+
+  -
+    name: Vue.js Madrid
+    image: vuejs-madrid.svg
+    site: https://www.meetup.com/VueJS-Madrid/
+
+  -
+    name: Vue.js Manchester
+    image: vuejs-manchester.svg
+    site: https://www.meetup.com/VueJS-Manchester/
+
+  -
+    name: Vue.js Milano
+    image: vuejs-milano.svg
+    site: https://www.meetup.com/it-IT/VueJS-Milano/
+
+  -
+    name: Vue.js Oslo
+    image: vuejs-oslo.svg
+    site: https://www.meetup.com/VueJS-Oslo/
+
+  -
+    name: Vue.js Vienna
+    image: vuejs-vienna.svg
+    site: https://www.vuejs-vienna.org/#/

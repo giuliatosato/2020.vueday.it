@@ -1,0 +1,30 @@
+{
+  "name": "vueday",
+  "version": "0.0.1",
+  "description": "Conference site",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "setup": "cp ./node_modules/dustman/gulpfile.js .",
+    "dev": "./node_modules/.bin/gulp -S --config dustman-vueday.yml watch & jekyll serve"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GrUSP/2019.vueday.it.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/GrUSP/2019.vueday.it/issues"
+  },
+  "homepage": "https://github.com/GrUSP/2019.vueday.it#readme",
+  "devDependencies": {
+    "dustman": "github:grusp/dustman",
+    "frontsize": "github:ideatosrl/frontsize#372f2a6",
+    "gulp": "github:gulpjs/gulp"
+  },
+  "dependencies": {
+    "jquery": "^3.1.1",
+    "moment": "^2.24.0"
+  }
+}
