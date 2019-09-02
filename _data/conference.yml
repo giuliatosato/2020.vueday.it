@@ -5,9 +5,9 @@ slug: vueday
 url: https://2020.vueday.it
 where_when: Verona, April 3rd 2020
 year: 2020
-since:
-call_for_paper_url:
-call_for_paper: false
+since: 2019
+call_for_paper_url: https://forms.gle/9zMKdHNGJRJks62k8
+call_for_paper: true
 training_available: false
 talks_available: false
 schedule_available: false
