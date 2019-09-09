@@ -58,9 +58,11 @@
           </div>
           <div class="footer__row-column">
             <div class="footer__nav">
+              {% if site.data.venue.venue_available %}
               <div class="footer__nav-item">
                 <a href="{{ site.baseurl }}/venue.html" class="button button--footer button--left">Venue</a>
               </div>
+              {% endif %}
               <div class="footer__nav-item">
                 <a href="{{ site.baseurl }}/coc.html" class="button button--footer button--left">CoC</a>
               </div>

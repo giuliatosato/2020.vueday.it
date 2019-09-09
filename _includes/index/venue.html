@@ -2,6 +2,7 @@
   <div class="venue__map-pin">
     <i class="icon-location"></i>
   </div>
+  {% if site.data.venue.venue_available %}
   <h5 class="venue__name">
     {{ site.data.venue.name }}
   </h5>
@@ -11,4 +12,5 @@
   <a href="{{ site.data.venue.map }}" target="_blank" class="button button--left">
     Get directions
   </a>
+  {% endif %}
 </div>
