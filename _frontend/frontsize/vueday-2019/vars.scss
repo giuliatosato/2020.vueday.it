@@ -47,6 +47,10 @@ $color-text: $color-mine-shaft;
 $color-twitter-link: $color-purple;
 $color-text-venue: $color-carnation;
 
+$color-link-workshop: $color-jordy-blue;
+$color-link-workshop-decoration: mix($color-jordy-blue, $color-white);
+$color-link-workshop-decoration-hover: $color-jordy-blue;
+
 $font-family-header: $font-family-sans;
 $font-family-speaker: $font-family-sans;
 $font-family-text: $font-family-sans;

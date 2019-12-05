@@ -1,0 +1,58 @@
+list:
+  -
+    slug: nuxtjs-the-beginners-workshop
+    title: Nuxt.js - The Beginners Workshop
+    when: Aprile 4th 2020, Verona
+    timetable: Check-in 9:00 - 9:30 / Workshop 9:30 - 18:00 (lunch and coffee breaks included)
+    where: Hotel San Marco, Via Longhena 42, 37138, Verona, Italy
+    map: https://goo.gl/maps/iqQ6n6bNAf72
+    tickets: https://vueday-2020.eventbrite.com/
+    language: english
+    teachers:
+      -
+        name: Alexander Lichter
+        picture: alexander-lichter.jpg
+        bio: |
+          Alex is a Nuxt.js core-team member and full-stack developer in his twenties.
+          When not working on open-source projects, he gives talks at conferences, writes blog posts or consults other
+          companies on web development with a focus on Vue.js and Nuxt.js.
+        link:
+    intro: |
+      Nuxt.js is an app-level framework for building Vue.js applications that will make a developer's life easier.
+      The framework offers features like Server Side Rendering, Static Site Generation and automatic code splitting to
+      make sure your front-end is production-ready and has great performance.
+      In this workshop, we will develop a near-real-life app with Nuxt.js together, from creating the project to the
+      final deployment.
+      During this process we will take a look at many features Nuxt.js offers and also show common pitfalls and how to
+      avoid them.
+    program: |
+      - Prelude: What is Nuxt and why is it the perfect choice for your next project?
+      - Creating our project scaffold via create-nuxt-app
+      - The structure of a Nuxt application
+      - Taking a look at the nuxt.config.js
+      - The Nuxt routing system
+        - Introduction
+        - Dynamic Routes
+        - Transitions
+        - Nested routes with <nuxt-child>
+        - Layouts
+        - Asset handling
+      - Server Side Rendering demystified
+      - AsyncData - a new function
+      - Using and accessing Vuex
+      - Improving SEO with vue-meta
+      - Nuxt plugins – The pinch of salt in the soup
+      - Nuxt modules - Decouple and encapsulate repetitive logic
+      - Introduction into JAMstack and Static Site Generation
+      - Deploying our application to Netlify
+    addressed_info: |
+      The workshop is made for Vue.js developers having no or little experience with Nuxt.js but want to make their
+      developer's life easier.
+      To get the most out of the workshop, basic Vue.js and Javascript knowledge is required.
+    useful_info: |
+      To participate in the workshop, please bring your laptop and make sure you have the following tools/programs installed:
+      - Node.js (LTS version)
+      - yarn (or NPM)
+      - Vue DevTools for your favorite browser
+      - Git
+      - Your favorite IDE

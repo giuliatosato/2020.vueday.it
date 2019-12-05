@@ -8,6 +8,10 @@
   color: $color-carnation;
   margin-top: 50px;
 
+  &.link {
+    color: $color-link-water;
+  }
+
   &.intro--no-height {
     height: auto !important;
     min-height: 0;
