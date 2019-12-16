@@ -18,6 +18,11 @@ list:
     site: https://www.meetup.com/Vue-Basel/
 
   -
+    name: Vue Berne Meetup
+    image: vue-berne.svg
+    site: https://www.meetup.com/Vue-Bern
+
+  -
     name: Vue.js Bulgaria
     image: vuejs-bulgaria.svg
     site: https://vuebulgaria.com/
