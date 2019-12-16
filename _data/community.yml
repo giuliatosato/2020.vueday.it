@@ -3,6 +3,11 @@
 # description is actually the company the speaker is working for
 list:
   -
+    name: Vue.js Athens
+    image: vuejs-athens.svg
+    site: https://www.meetup.com/vuejsathens/
+
+  -
     name: Vue.js Barcelona
     image: vuejs-barcelona.svg
     site: https://www.meetup.com/VueJS-BCN/
