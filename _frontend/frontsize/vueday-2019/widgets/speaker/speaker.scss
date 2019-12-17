@@ -45,6 +45,7 @@
     font-family: $font-family-speaker;
     font-size: 13px;
     padding-top: s(1);
+    padding-right: s(1);
   }
 
   @include element ('twitter-link') {
