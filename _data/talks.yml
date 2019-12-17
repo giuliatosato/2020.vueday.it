@@ -1,4 +1,14 @@
 -
+  speaker_id: cristi-jora
+  title: Rapid development with Vue.js and Tailwind
+  extract: >
+    Would like to provide insights into how the combination of Vue.js and tailwindcss can make development very fast,
+    yet stable and how you can grow prototypes into real production ready features with these 2 libraries. In the talk
+    I would point out the benefits of tailwind and how it personally helped me and my team to have a unified css approach
+    on several projects. At the end I will prepare a live coding demo and build a fully accessible small component to
+    showcase why the combination of Tailwind and Vue increases developer productivity and let's you focus more on the
+    core features of your application rather than finding third parties and having a hard time customizing them.
+-
   speaker_id: guillaume-chau
   title: Apollo + Vue Composition API
   extract: >

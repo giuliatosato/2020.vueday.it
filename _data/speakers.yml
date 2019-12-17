@@ -11,6 +11,15 @@ list:
 #    twitter: TheAlexLichter
 
   -
+    id: cristi-jora
+    description: >
+      Trying to find simplicity everywhere. Web development is my passion and luckily my job. Photography enthusiast and
+      nature lover.
+    image: cristi-jora.jpg
+    first_name: Cristi
+    last_name: Jora
+    twitter: jora_cristi
+  -
     id: ethan-lipkind
     description: >
       Ethan is a software engineer at the New York Times, where he works to solve a wide range of technical challenges
