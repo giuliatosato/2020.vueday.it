@@ -9,3 +9,26 @@ list:
 #    first_name: Alexander
 #    last_name: Lichter
 #    twitter: TheAlexLichter
+  -
+    id: guillaume-chau
+    description: "Member of the VueJS core team and Apollo GraphQL contributor. Working on official tools like vue-devtools, vue-cli, vue-cli-ui, vue-curated... Creator of the integrations of VueJS with Meteor (vue-meteor) and Apollo GraphQL (vue-apollo) to help developers build highly interactive and real-time web apps. Contributing to the Open Source community with tools like vue-virtual-scroller, vue-supply... Doing talks to introduce these cutting-edge technologies to a larger audience."
+    image: guillaume-chau.jpg
+    first_name: Guillaume
+    last_name: Chau
+    twitter: Akryum
+  -
+    id: naomi-meyer
+    description: "Naomi works as a Software Development Engineer at Adobe in New York City, where she leads internationalization on her team. Before writing JavaScript full time, Naomi worked as a teacher in local classrooms across Asia and West Africa. She is passionate about developing with diversity, inclusion, and internationalization in mind, and enjoys hiking and riding bikes on the weekends."
+    image: naomi-meyer.jpg
+    first_name: Naomi
+    last_name: Meyer
+    twitter: nae_ohmi
+  -
+    id: ethan-lipkind
+    description: "Ethan is a software engineer at the New York Times, where he works to solve a wide range of technical challenges related to customer care. Ethan is passionate about education, and teaches computer science through volunteer organizations around New York City including Code Nation and the Marcy Lab School. When he’s not coding, he enjoys playing guitar, chess, and rock climbing." 
+    image: ethan-lipkind.jpg
+    first_name: Ethan
+    last_name: Lipkind
+    twitter: 
+    
+    	
