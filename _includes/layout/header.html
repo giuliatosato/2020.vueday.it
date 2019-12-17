@@ -20,6 +20,11 @@
         </a>
 
         <div class="header__menu-desktop">
+          {% if site.data.conference.talks_available %}
+          <a href="{{ site.baseurl }}/talks.html" class="button">
+            Talks
+          </a>
+          {% endif %}
           {% if site.data.conference.workshops_available %}
             <a href="{{ site.baseurl }}/workshops.html" class="button">
               Workshops
@@ -30,24 +35,21 @@
               CFP
             </a>
           {% endif %}
-          {% if site.data.conference.talks_available %}
-            <a href="{{ site.baseurl }}/talks.html" class="button">
-              Talks
-            </a>
-          {% endif %}
           {% if site.data.conference.schedule_available %}
             <a href="{{ site.baseurl }}/schedule.html" class="button">
               Schedule
             </a>
           {% endif %}
-          <a href="{{ site.baseurl }}/coc.html" class="button button--no-tablet-small">
-            CoC
-          </a>
-          {% if site.data.venue.venue_available %}
-          <a href="{{ site.baseurl }}/venue.html" class="button button--no-tablet-small">
-            Venue
-          </a>
-          {% endif %}
+          {% unless site.data.conference.talks_available %}
+            <a href="{{ site.baseurl }}/coc.html" class="button button--no-tablet-small">
+              CoC
+            </a>
+            {% if site.data.venue.venue_available %}
+            <a href="{{ site.baseurl }}/venue.html" class="button button--no-tablet-small">
+              Venue
+            </a>
+            {% endif %}
+          {% endunless %}
           <a href="{{ site.baseurl }}/sponsor.html" class="button button--no-tablet-small">
             Sponsors
           </a>
