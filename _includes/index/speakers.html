@@ -32,12 +32,43 @@
       </div>
     {% endfor %}
 
-    <div class="speakers__column speakers__column--cfp">
+    <div class="speakers__cfp">
       {% if site.data.conference.call_for_paper %}
-        <a href="{{ site.data.conference.call_for_paper_url }}" target="_blank" class="button button--left">
+        <a href="{{ site.data.conference.call_for_paper_url }}" target="_blank" class="button button--register">
           Call for Paper
         </a>
       {% endif %}
+    </div>
+  </div>
+</div>
+
+<div class="speakers-title">
+  <div class="mega-info mega-info&#45;&#45;huge">
+    <div class="mega-info__number">1</div>
+    <div class="mega-info__text">MC</div>
+  </div>
+</div>
+
+<div class="limit">
+  <div class="speakers">
+    <div class="speakers__column">
+      <div class="speaker">
+        <div class="speaker__pic" style="background-image:url('{{ site.baseurl }}/img/{{ site.data.conference.slug }}/speaker/geisy-domiciano.jpg');"></div>
+        <div class="speaker__full-name">
+          <div class="speaker__name">
+            Geisy
+          </div>
+          <div class="speaker__name">
+            Domiciano
+          </div>
+        </div>
+        <div class="speaker__description">
+          Master of ceremonies
+        </div>
+        <a class="speaker__twitter-link" href="https://twitter.com/geisydomiciano">
+          @geisydomiciano
+        </a>
+      </div>
     </div>
   </div>
 </div>

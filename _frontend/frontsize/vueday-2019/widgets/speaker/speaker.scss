@@ -1,6 +1,7 @@
 @include block ('speaker') {
 
   padding-bottom: s(2);
+  text-align: left;
 
   &:hover {
     @include element ('pic') {
