@@ -24,3 +24,17 @@
     principles and guidelines to be followed by our team and others who engage with our products. The Vue-based design
     system helps us to maintain consistency and efficiency, allowing us to design, implement new features and iterate
     more quickly as a cross-functional, agile team.
+-
+  speaker_id: ramona-biscoveanu
+  title: Explaining the VuePress Magic 🧙
+  extract: >
+    VuePress is awesome and full of magic, I could say for multiple reasons:  as technology and as a product!
+    But how is this magic happening that make VuePress sites so fast? How is VuePress doing all that awesome stuff for
+    you and being very consumer-friendly? I will answer all these questions in my presentation, but before doing that I
+    will take a step back and I will explain what are static site generators, why is their popularity keeps rising, how
+    are they working under the hood and how is the Vue ecosystem looking.
+    I will present a deep dive into how these tools work, I will show you what happens behind the scenes and what
+    technologies they are using by using code samples from VuePress codebase. For example, I will explain how a markdown
+    file is processed. But also I will present some interesting features that set VuePress apart in the ecosystem because
+    if set up correctly VuePress can be very powerful.
+    Magic is awesome but magic is even better when is explained :)
