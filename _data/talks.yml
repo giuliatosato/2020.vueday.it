@@ -1,4 +1,26 @@
-#-
-#  speaker_id:
-#  title:
-#  extract: >
+-
+  speaker_id: guillaume-chau
+  title: Apollo + Vue Composition API
+  extract: >
+    Introduction to using the vue-apollo Composition API
+-
+  speaker_id: naomi-meyer
+  title: Data Visualizations and Internationalization
+  extract: >
+    Building custom data visualizations with full international support is not always easy. Let's go over useful
+    techniques to customize data visualizations in Vue, for a global audience. How to format strings, numbers, dates,
+    times, currencies, calendars, x/y axis, and more! We'll talk about the unique challenges with right to left and
+    bi-directional locale visualizations, how colors, iconography, and emojis can be perceived differently in distinct
+    cultures, as well as mapping and cartography for a global audience.
+-
+  speaker_id: ethan-lipkind
+  title: Vue at the New York Times
+  extract: >
+    "The New York Times Care Platforms Team uses Vue/Vuex to integrate new UI components into a legacy CRM application.
+    Vue allows us to add new components to our application incrementally, and further, it allows us to continue
+    delivering business value to our stakeholders while chipping away at technical debt incurred by years of working
+    with this vendor framework. Additionally, Vue has been at the center of all collaboration between designers and
+    engineers on our team as we work together towards building up a design system which provides documentation,
+    principles and guidelines to be followed by our team and others who engage with our products. The Vue-based design
+    system helps us to maintain consistency and efficiency, allowing us to design, implement new features and iterate
+    more quickly as a cross-functional, agile team.
