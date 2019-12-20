@@ -2,13 +2,16 @@
 # img/conf-name/speaker/file.jpg
 # description is actually the company the speaker is working for
 list:
-#  -
-#    id: alexander-lichter
-#    description:
-#    image: alexander-lichter.jpg
-#    first_name: Alexander
-#    last_name: Lichter
-#    twitter: TheAlexLichter
+  -
+    id: alexander-lichter
+    description: >
+      Nuxt.js core-team member and full-stack developer in his twenties. When not working on open-source projects, he
+      gives talks at conferences, writes blog posts or consults other companies on web development with a focus on
+      Vue.js and Nuxt.js.
+    image: alexander-lichter.jpg
+    first_name: Alexander
+    last_name: Lichter
+    twitter: TheAlexLichter
 
   -
     id: cristi-jora
