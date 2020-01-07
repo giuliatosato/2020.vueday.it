@@ -3,6 +3,15 @@
 # description is actually the company the speaker is working for
 list:
   -
+    id: abdelrahman-awad
+    description: >
+      Based in Cairo Egypt, Frontend Engineer @ Robusta Studio and open source contributor. Created vee-validate.
+    image: abdelrahman-awad.jpg
+    first_name: Abdelrahman
+    last_name: Awad
+    twitter: logaretm
+
+  -
     id: alexander-lichter
     description: >
       Nuxt.js core-team member and full-stack developer in his twenties. When not working on open-source projects, he

@@ -1,4 +1,12 @@
 -
+  speaker_id: abdelrahman-awad
+  title: Adaptive Vue.js Apps with The Composition API
+  extract: >
+    The Vue.js composition API brings us a lot of new ways to share functionality across components. I will be introducing
+    how to use `vue-use-web` to tackle "adaptive" Apps that behave differently depending on various aspects of the user
+    device, like their memory, battery level, and connection speed. This allows us to be more empathetic towards our
+    users and that we can give them a better experience.
+-
   speaker_id: alexander-lichter
   title: SEO in a Vue.js world
   extract: >
