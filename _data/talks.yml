@@ -7,52 +7,6 @@
     device, like their memory, battery level, and connection speed. This allows us to be more empathetic towards our
     users and that we can give them a better experience.
 -
-  speaker_id: alexander-lichter
-  title: SEO in a Vue.js world
-  extract: >
-    What do a SaaS landing page, blog and e-commerce store have in common? They should all be found through a search
-    engine, ideally by as many people as possible. Search engine optimization (SEO) can therefore be decisive for the
-    success and also the revenue of your projects.
-    But when it comes to Vue.js and SEO, there are many controversial opinions about the impact of Vue on SEO efforts.
-    In my session we will go through the basics of SEO and examine best practices and their implementations with the
-    help of vue-meta and Nuxt.js.
--
-  speaker_id: cristi-jora
-  title: Rapid development with Vue.js and Tailwind
-  extract: >
-    Would like to provide insights into how the combination of Vue.js and tailwindcss can make development very fast,
-    yet stable and how you can grow prototypes into real production ready features with these 2 libraries. In the talk
-    I would point out the benefits of tailwind and how it personally helped me and my team to have a unified css approach
-    on several projects. At the end I will prepare a live coding demo and build a fully accessible small component to
-    showcase why the combination of Tailwind and Vue increases developer productivity and let's you focus more on the
-    core features of your application rather than finding third parties and having a hard time customizing them.
--
-  speaker_id: guillaume-chau
-  title: Apollo + Vue Composition API
-  extract: >
-    Introduction to using the vue-apollo Composition API
--
-  speaker_id: naomi-meyer
-  title: Data Visualizations and Internationalization
-  extract: >
-    Building custom data visualizations with full international support is not always easy. Let's go over useful
-    techniques to customize data visualizations in Vue, for a global audience. How to format strings, numbers, dates,
-    times, currencies, calendars, x/y axis, and more! We'll talk about the unique challenges with right to left and
-    bi-directional locale visualizations, how colors, iconography, and emojis can be perceived differently in distinct
-    cultures, as well as mapping and cartography for a global audience.
--
-  speaker_id: ethan-lipkind
-  title: Vue at the New York Times
-  extract: >
-    "The New York Times Care Platforms Team uses Vue/Vuex to integrate new UI components into a legacy CRM application.
-    Vue allows us to add new components to our application incrementally, and further, it allows us to continue
-    delivering business value to our stakeholders while chipping away at technical debt incurred by years of working
-    with this vendor framework. Additionally, Vue has been at the center of all collaboration between designers and
-    engineers on our team as we work together towards building up a design system which provides documentation,
-    principles and guidelines to be followed by our team and others who engage with our products. The Vue-based design
-    system helps us to maintain consistency and efficiency, allowing us to design, implement new features and iterate
-    more quickly as a cross-functional, agile team.
--
   speaker_id: ramona-biscoveanu
   title: Explaining the VuePress Magic 🧙
   extract: >
@@ -66,3 +20,65 @@
     file is processed. But also I will present some interesting features that set VuePress apart in the ecosystem because
     if set up correctly VuePress can be very powerful.
     Magic is awesome but magic is even better when is explained :)
+-
+  speaker_id: guillaume-chau
+  title: Apollo + Vue Composition API
+  extract: >
+    Introduction to using the vue-apollo Composition API
+-
+  speaker_id: cristi-jora
+  title: Rapid development with Vue.js and Tailwind
+  extract: >
+    Would like to provide insights into how the combination of Vue.js and tailwindcss can make development very fast,
+    yet stable and how you can grow prototypes into real production ready features with these 2 libraries. In the talk
+    I would point out the benefits of tailwind and how it personally helped me and my team to have a unified css approach
+    on several projects. At the end I will prepare a live coding demo and build a fully accessible small component to
+    showcase why the combination of Tailwind and Vue increases developer productivity and let's you focus more on the
+    core features of your application rather than finding third parties and having a hard time customizing them.
+-
+  speaker_id: alexander-lichter
+  title: SEO in a Vue.js world
+  extract: >
+    What do a SaaS landing page, blog and e-commerce store have in common? They should all be found through a search
+    engine, ideally by as many people as possible. Search engine optimization (SEO) can therefore be decisive for the
+    success and also the revenue of your projects.
+    But when it comes to Vue.js and SEO, there are many controversial opinions about the impact of Vue on SEO efforts.
+    In my session we will go through the basics of SEO and examine best practices and their implementations with the
+    help of vue-meta and Nuxt.js.
+-
+  speaker_id: ethan-lipkind
+  title: Vue at the New York Times
+  extract: >
+    The New York Times Care Platforms Team uses Vue/Vuex to integrate new UI components into a legacy CRM application.
+    Vue allows us to add new components to our application incrementally, and further, it allows us to continue
+    delivering business value to our stakeholders while chipping away at technical debt incurred by years of working
+    with this vendor framework. Additionally, Vue has been at the center of all collaboration between designers and
+    engineers on our team as we work together towards building up a design system which provides documentation,
+    principles and guidelines to be followed by our team and others who engage with our products. The Vue-based design
+    system helps us to maintain consistency and efficiency, allowing us to design, implement new features and iterate
+    more quickly as a cross-functional, agile team.
+-
+  speaker_id: naomi-meyer
+  title: Data Visualizations and Internationalization
+  extract: >
+    Building custom data visualizations with full international support is not always easy. Let's go over useful
+    techniques to customize data visualizations in Vue, for a global audience. How to format strings, numbers, dates,
+    times, currencies, calendars, x/y axis, and more! We'll talk about the unique challenges with right to left and
+    bi-directional locale visualizations, how colors, iconography, and emojis can be perceived differently in distinct
+    cultures, as well as mapping and cartography for a global audience.
+-
+  speaker_id: patryk-tomczyk
+  title: Rebuilding biggest eCommerce Open Source Vue project with Composition API	
+  extract: >
+    With almost 6k GitHub stars, vibrant community of more than 2000 developers, 40+ partner agencies and hackathons happening every few weeks all around the world (New York, Tel Aviv, Germany, Netherlands to name a few) organized by companies like Tom Tailor, 
+    Vue Storefront is currently the most popular Open Source eCommerce Storefront in the world! 
+    We came a long way. Started 3 years ago as all-in-one heavy-weight solution with our own plugin system, Redis caching, custom Server Side Rendering and specific deployment strategies. 
+    Now we’re in process of moving to much lighter architecture. Core of our software which previously was enormously huge codebase right now is just a set of TypeScript interfaces ensuring that all parts of the systems are working correctly with each other. 
+    Everything else is based on Nuxt.js and modular pluggable integrations written in Composition API. 
+    If you’re curious 
+    - how we built such a successful open source project from scratch in just 2 years
+    - what challenges we needed to face (scalability, extendibility etc) and how Vue helped us with them
+    - why we choose Vue and how it’s helping us to be ahead of others in the industry who choose to use React for their solutions
+    - what architectural decisions we made to  and how they evolved 
+    - How we moved from gigantic monolithic architecture to fully modular and lightweight solution with Compositon API
+    This is a talk for you!
