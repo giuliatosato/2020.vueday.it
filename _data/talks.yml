@@ -70,12 +70,16 @@
   speaker_id: patryk-tomczyk
   title: Rebuilding biggest eCommerce Open Source Vue project with Composition API	
   extract: >
-    With almost 6k GitHub stars, vibrant community of more than 2000 developers, 40+ partner agencies and hackathons happening every few weeks all around the world (New York, Tel Aviv, Germany, Netherlands to name a few) organized by companies like Tom Tailor, 
-    Vue Storefront is currently the most popular Open Source eCommerce Storefront in the world! 
-    We came a long way. Started 3 years ago as all-in-one heavy-weight solution with our own plugin system, Redis caching, custom Server Side Rendering and specific deployment strategies. 
-    Now we’re in process of moving to much lighter architecture. Core of our software which previously was enormously huge codebase right now is just a set of TypeScript interfaces ensuring that all parts of the systems are working correctly with each other. 
+    With almost 6k GitHub stars, vibrant community of more than 2000 developers, 40+ partner agencies and hackathons
+    happening every few weeks all around the world (New York, Tel Aviv, Germany, Netherlands to name a few) organized
+    by companies like Tom Tailor, Vue Storefront is currently the most popular Open Source eCommerce Storefront in the world!
+    We came a long way. Started 3 years ago as all-in-one heavy-weight solution with our own plugin system, Redis caching,
+    custom Server Side Rendering and specific deployment strategies.
+    Now we’re in process of moving to much lighter architecture. Core of our software which previously was enormously
+    huge codebase right now is just a set of TypeScript interfaces ensuring that all parts of the systems are working
+    correctly with each other.
     Everything else is based on Nuxt.js and modular pluggable integrations written in Composition API. 
-    If you’re curious 
+    If you’re curious:
     - how we built such a successful open source project from scratch in just 2 years
     - what challenges we needed to face (scalability, extendibility etc) and how Vue helped us with them
     - why we choose Vue and how it’s helping us to be ahead of others in the industry who choose to use React for their solutions
