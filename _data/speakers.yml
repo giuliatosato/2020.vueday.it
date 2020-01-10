@@ -74,13 +74,13 @@ list:
     last_name: Meyer
     twitter: nae_ohmi
   -
-    id: patryk-yomczyk
+    id: patryk-tomczyk
     description: >
       Core Team Member of Vue Storefront, Tech Lead at Divante. 
       I love to have a very deep understanding of all of the architectural aspects and put the pieces together. 
       Thanks to this, I can share knowledge and help others to improve their skills. 
       In my spare time, I like hiking, riding a motorcycle and occasionally climb somewhere.
-    image: patryk-yomczyk.jpg
+    image: patryk-tomczyk.jpg
     first_name: Patryk
     last_name: Tomczyk
     twitter: tomczykpatryk    
