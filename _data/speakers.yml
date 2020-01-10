@@ -2,6 +2,7 @@
 # img/conf-name/speaker/file.jpg
 # description is actually the company the speaker is working for
 list:
+
   -
     id: abdelrahman-awad
     description: >
@@ -10,39 +11,14 @@ list:
     first_name: Abdelrahman
     last_name: Awad
     twitter: logaretm
-
   -
-    id: alexander-lichter
+    id: ramona-biscoveanu
     description: >
-      Nuxt.js core-team member and full-stack developer in his twenties. When not working on open-source projects, he
-      gives talks at conferences, writes blog posts or consults other companies on web development with a focus on
-      Vue.js and Nuxt.js.
-    image: alexander-lichter.jpg
-    first_name: Alexander
-    last_name: Lichter
-    twitter: TheAlexLichter
-
-  -
-    id: cristi-jora
-    description: >
-      Web developer and Co-Founder of BinarCode.
-      Trying to find simplicity everywhere. Web development is my passion and luckily my job. Photography enthusiast and
-      nature lover.
-    image: cristi-jora.jpg
-    first_name: Cristi
-    last_name: Jora
-    twitter: jora_cristi
-  -
-    id: ethan-lipkind
-    description: >
-      Ethan is a software engineer at the New York Times, where he works to solve a wide range of technical challenges
-      related to customer care. Ethan is passionate about education, and teaches computer science through volunteer
-      organizations around New York City including Code Nation and the Marcy Lab School. When he’s not coding, he enjoys
-      playing guitar, chess, and rock climbing.
-    image: ethan-lipkind.jpg
-    first_name: Ethan
-    last_name: Lipkind
-    twitter:
+      Developer at SAP, VuePress core Team Member and passionate about all things web, especially Vue.
+    image: ramona-biscoveanu.jpg
+    first_name: Ramona
+    last_name: Biscoveanu
+    twitter: codesOfRa
   -
     id: guillaume-chau
     description: >
@@ -56,6 +32,37 @@ list:
     last_name: Chau
     twitter: Akryum
   -
+    id: cristi-jora
+    description: >
+      Web developer and Co-Founder of BinarCode.
+      Trying to find simplicity everywhere. Web development is my passion and luckily my job. Photography enthusiast and
+      nature lover.
+    image: cristi-jora.jpg
+    first_name: Cristi
+    last_name: Jora
+    twitter: jora_cristi
+  -
+    id: alexander-lichter
+    description: >
+      Nuxt.js core-team member and full-stack developer in his twenties. When not working on open-source projects, he
+      gives talks at conferences, writes blog posts or consults other companies on web development with a focus on
+      Vue.js and Nuxt.js.
+    image: alexander-lichter.jpg
+    first_name: Alexander
+    last_name: Lichter
+    twitter: TheAlexLichter
+  -
+    id: ethan-lipkind
+    description: >
+      Ethan is a software engineer at the New York Times, where he works to solve a wide range of technical challenges
+      related to customer care. Ethan is passionate about education, and teaches computer science through volunteer
+      organizations around New York City including Code Nation and the Marcy Lab School. When he’s not coding, he enjoys
+      playing guitar, chess, and rock climbing.
+    image: ethan-lipkind.jpg
+    first_name: Ethan
+    last_name: Lipkind
+    twitter:
+  -
     id: naomi-meyer
     description: >
       Naomi works as a Software Development Engineer at Adobe in New York City, where she leads internationalization on
@@ -67,10 +74,13 @@ list:
     last_name: Meyer
     twitter: nae_ohmi
   -
-    id: ramona-biscoveanu
+    id: patryk-yomczyk
     description: >
-      Developer at SAP, VuePress core Team Member and passionate about all things web, especially Vue.
-    image: ramona-biscoveanu.jpg
-    first_name: Ramona
-    last_name: Biscoveanu
-    twitter: codesOfRa
+      Core Team Member of Vue Storefront, Tech Lead at Divante. 
+      I love to have a very deep understanding of all of the architectural aspects and put the pieces together. 
+      Thanks to this, I can share knowledge and help others to improve their skills. 
+      In my spare time, I like hiking, riding a motorcycle and occasionally climb somewhere.
+    image: patryk-yomczyk.jpg
+    first_name: Patryk
+    last_name: Tomczyk
+    twitter: tomczykpatryk    
