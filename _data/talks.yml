@@ -1,4 +1,13 @@
 -
+  speaker_id: tiago-alves
+  title: Cooking with NativeScript-Vue
+  extract: >
+    Do you know Vue.js? Want to develop a native app? With NativeScript-Vue you can! In this talk, I will present the
+    NativeScript-Vue ecosystem, and how developing production mobile apps feels like with this framework. You will
+    discover what the main “haha!”s and “gotcha!”s are, specially if you come from a webdev background. In the end,
+    you will know what NativeScript-Vue is in the real world, and if it is a good fit for your next native app
+    development.
+-
   speaker_id: abdelrahman-awad
   title: Adaptive Vue.js Apps with The Composition API
   extract: >

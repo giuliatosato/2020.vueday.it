@@ -2,7 +2,16 @@
 # img/conf-name/speaker/file.jpg
 # description is actually the company the speaker is working for
 list:
-
+  -
+    id: tiago-alves
+    description: >
+      Over the last 15 years in the development business, Tiago did a bit of everything until finally landing in the
+      soft arms of Vue.js. He is very excited with the possibility of using Vue with NativeScript and so he has been
+      helping with the nativescript-vue community effort for some time. Currently working for IRC.com.
+    image: tiago-alves.jpg
+    first_name: Tiago
+    last_name: Alves
+    twitter: tiagoreisalves
   -
     id: abdelrahman-awad
     description: >
