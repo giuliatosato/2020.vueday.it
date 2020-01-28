@@ -10,7 +10,7 @@ call_for_paper_url: https://forms.gle/9zMKdHNGJRJks62k8
 call_for_paper: false
 workshops_available: true
 talks_available: true
-schedule_available: false
+schedule_available: true
 scholarship_available: true
 
 iubenda:
