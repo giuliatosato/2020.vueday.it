@@ -78,6 +78,9 @@ silver:
     - 3 tickets with 10% discount
   max: 16
   list:
+    -
+      url: https://www.seesaw.it/2020-rubyday-verona/
+      image: seesaw.svg  
 
 bronze:
   price: € 500
