@@ -4,7 +4,7 @@
   </h1>
 
   <h1 class="row__title">
-    <a href="{{ site.data.tickets.url }}" target="_blank" class="button button--register">Register now</a>
+    <a href="{{ workshop.tickets }}" target="_blank" class="button button--register">Register now</a>
   </h1>
 
 </div>
@@ -31,7 +31,7 @@
     {{ workshop.intro | markdownify }}
   </div>
   {% for teacher in workshop.teachers %}
-  <div class="row__column">
+  <div class="row__column" style="clear: right;">
     <a href="{{ teacher.link }}" class="teacher">
       <div class="teacher__avatar">
         <img src="/img/teachers/{{ teacher.picture }}" class="teacher__picture">
@@ -60,7 +60,7 @@
 
 
   <div class="row__column">
-    <a href="{{ site.data.tickets.url }}" target="_blank" class="button button--register">Register now</a>
+    <a href="{{ workshop.tickets }}" target="_blank" class="button button--register">Register now</a>
   </div>
 </div>
 
@@ -75,10 +75,15 @@
   <div class="row__column">
     <h3 class="column__title">Useful information</h3>
     {{ workshop.useful_info | markdownify }}
+
+    {% if workshop.coc %}
+    <h3 class="column__title">Code of Conduct</h3>
+    {{ workshop.coc | markdownify }}
+    {% endif %}
   </div>
 
   <p class="row__column">
-    <a href="{{ site.data.tickets.url }}" target="_blank" class="button button--register">Register now</a>
+    <a href="{{ workshop.tickets }}" target="_blank" class="button button--register">Register now</a>
   </p>
 
 </div>
