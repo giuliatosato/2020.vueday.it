@@ -104,7 +104,7 @@ list:
 
   -
     slug: vue-vixens-workshop-verona
-    title: Vue Vixens Workshop Verona
+    title: Vue Vixens Workshop for Women
     when: April 4th 2020, Verona
     timetable: Check-in 9:30 - 10:00 / Workshop 10:00 - 17:00 (lunch and coffee breaks included)
     where: Hotel San Marco, Via Longhena 42, 37138, Verona, Italy
@@ -125,40 +125,40 @@ list:
           about coding and switched career. She currently works as a front-end developer in Stockholm. When she is not
           coding she loves running and reading.
     intro: |
-      It’s a free, full-day workshop.
+      [ENG] IT'S A FREE, FULL-DAY WORKSHOP AIMED AT WOMEN WHO WANTS TO LEARN PROGRAMMING IN VUE.JS.
       Over the course of the day, you'll work with a mentor in small groups in a self-driven workshop. You'll complete
       the task of [building a web app and a mobile app](https://workshops.vuevixens.org/workshop/) that will teach you about the framework Vue.Js and programming in
       JavaScript. You'll also get a chance to meet and work with like-minded students.
       The goal of the workshop is to familiarize who identifies as a woman with Vue.js in a supportive and inclusive environment.
 
-      È un seminario gratuito di un'intera giornata.
+      [ITA] È UN WORKSHOP GRATUITO DI UNA INTERA GIORNATA, RIVOLTO A DONNE CHE VOGLIONO IMPARARE A PROGRAMMARE CON VUE.JS.
       Nel corso della giornata, lavorerai in autonomia in un piccolo gruppo, con il supporto di una tutor. [Creerai un'app
       Web e una mobile](https://workshops.vuevixens.org/workshop/) che ti insegnerà il framework Vue.Js e la programmazione in JavaScript. Avrai anche la possibilità
       di incontrare e lavorare con studenti simili a te.
       L'obiettivo del workshop è far conoscere Vue.js a chi si identifica come donna con in un ambiente confortevole e inclusivo.
     program: |
-      As a student, perhaps new to the field of frontend development, you are given the opportunity to learn about Vue.js,
+      [ENG] As a student, perhaps new to the field of frontend development, you are given the opportunity to learn about Vue.js,
       a cool, fresh framework for building both web and mobile apps.
 
-      Come principiante nel campo dello sviluppo frontend, avrai l'opportunità di conoscere Vue.js, un semplice framework
+      [ITA] Come principiante nel campo dello sviluppo frontend, avrai l'opportunità di conoscere Vue.js, un semplice framework
       JavaScript per la creazione di app Web e mobile.
     addressed_info: |
-      If you are a new Vue.js developer who identifies as a woman, and want to learn or practice Vue.js to make websites
+      [ENG] If you are a new Vue.js developer who identifies as a woman, and want to learn or practice Vue.js to make websites
       and mobile apps, this workshop is for you: you are welcome!
       Join us to our very first Vue Vixens workshop in Italy!
 
-      Se sei una persona che si identifica come donna, hai iniziato da poco a sviluppare con Vue.js e desideri imparare
+      [ITA] Se sei una persona che si identifica come donna, hai iniziato da poco a sviluppare con Vue.js e desideri imparare
       o esercitarti per creare siti Web e app per mobile, questo workshop è per te: sei la benvenuta!
       Unisciti a noi al nostro primo workshop Vue Vixens in Italia!
     useful_info: |
-      It is organised by, and with the contribute of, [Vue Vixens](https://vuevixens.org/) and [GrUSP](https://www.grusp.org/).
+      [ENG] It is organised by, and with the contribute of, [Vue Vixens](https://vuevixens.org/) and [GrUSP](https://www.grusp.org/).
       Lunch and coffee breaks are included.
 
-      Il workshop è organizzato da [Vue Vixens](https://vuevixens.org/) e [GrUSP](https://www.grusp.org/). Pranzo e
+      [ITA] Il workshop è organizzato da [Vue Vixens](https://vuevixens.org/) e [GrUSP](https://www.grusp.org/). Pranzo e
       pause caffè sono comprese.
     coc: |
-      We expect everybody to be gentle, inclusive and respectful to each other.
+      [ENG] We expect everybody to be gentle, inclusive and respectful to each other.
       We have a Code of Conduct: [https://vue-vixens-workshop.netlify.com/workshop/code_of_conduct.html](https://vue-vixens-workshop.netlify.com/workshop/code_of_conduct.html)
 
-      Ci aspettiamo che chi partecipa si comporti in modo gentile, inclusivo e rispettoso reciprocamente.
+      [ITA] Ci aspettiamo che chi partecipa si comporti in modo gentile, inclusivo e rispettoso reciprocamente.
       Abbiamo un codice di condotta: [https://vue-vixens-workshop.netlify.com/workshop/code_of_conduct.html](https://vue-vixens-workshop.netlify.com/workshop/code_of_conduct.html)
