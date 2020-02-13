@@ -3,6 +3,10 @@
 # description is actually the company the speaker is working for
 list:
   -
+    name: Alicante Frontend
+    image: alicantefrontend.svg
+    site: https://www.alicantefrontend.es/
+  -
     name: Vue.js Athens
     image: vuejs-athens.svg
     site: https://www.meetup.com/vuejsathens/
@@ -26,6 +30,16 @@ list:
     name: Vue.js Bulgaria
     image: vuejs-bulgaria.svg
     site: https://vuebulgaria.com/
+  
+  -
+    name: Vue.js Spain
+    image: vuejsday.svg
+    site: https://twitter.com/VueDay
+ 
+  -
+    name: VueDose
+    image: vuedose.svg
+    site: https://vuedose.tips/   
 
   -
     name: Vue.js Dublin
