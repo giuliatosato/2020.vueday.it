@@ -2,10 +2,10 @@ list:
   -
     slug: nuxtjs-the-beginners-workshop
     title: Nuxt.js - The Beginners Workshop
-    when: April 4th 2020, Verona
+    when: April 4th 2020
     timetable: Check-in 9:00 - 9:30 / Workshop 9:30 - 18:00 (lunch and coffee breaks included)
-    where: Hotel San Marco, Via Longhena 42, 37138, Verona, Italy
-    map: https://goo.gl/maps/iqQ6n6bNAf72
+    where: 
+    map:
     tickets: https://vueday-2020.eventbrite.com/
     language: english
     teachers:
@@ -57,58 +57,15 @@ list:
       - Git
       - Your favorite IDE
 
-  -
-    slug: vuejs-testing-for-everyone
-    title: Vue.js Testing for Everyone
-    when: April 4th 2020, Verona
-    timetable: Check-in 9:00 - 9:30 / Workshop 9:30 - 18:00 (lunch and coffee breaks included)
-    where: Hotel San Marco, Via Longhena 42, 37138, Verona, Italy
-    map: https://goo.gl/maps/iqQ6n6bNAf72
-    tickets: https://vueday-2020.eventbrite.com/
-    language: english
-    teachers:
-      - name: Alex Jover
-        picture: alex-jover.jpg
-        bio: |
-          Alex Jover is a Vue Community member with a passion for teaching  Vue.js, Nuxt.js and Web Performance to the
-          world. Creator of VueDose and VueDay (Spain), books and articles author. Web developer in the morning,
-          enterpreneur in the evening, Bachata dancer at night.
-        link:
-    intro: |
-      Companies aim to create robust and quality products that satisfy their users needs, and as a developer you have
-      the power to help achieving that goal.
-      Testing takes a great part on this: it doesn't only make sure the code you're creating works, but also helps
-      making sure the user requirements are met and to create a sustainable architecture, helping with refactoring,
-      and much more.
-      This workshop will lead you to learn all you need to know to test your Vue.js applications step by step and in
-      the most practical way possible, where you will create tests yourself.
-      By the end of it, you will be able to test a Vue.js application following best practices.
-    program: |
-      - Introduction to testing: What/Why/How to test, types of tests, parts of a test.
-      - Testing your JavaScript code: First "hello world" test, tests structure, testing practices, TDD
-      - Test Doubles: Mocks, stubs, spies, solving dependencies and side effects
-      - Testing in Vue: First Vue component test, Shallow vs Deep rendering, Testing styles and structure, custom events, computed and methods, slots, snapshot testing...
-      - Snapshot Testing: using this technique the right way for efficient testing components
-      - Vuex Testing: Mutations, Getters, Actions, best pratices and utils, unit vs integration store testing
-    addressed_info: |
-      The workshop is made for developers with basic Vue.js and Javascript knowledge.
-      No testing experience is required: the workshop goes from 0 to 100 covering basic, intermediate and advanced
-      concepts. If you already have some testing experience, you'll still benefit from the more advanced concepts and
-      best practices.
-    useful_info: |
-      To participate in the workshop, please bring your laptop and make sure you have the following tools/programs installed:
-      - Node.js (LTS version)
-      - yarn (or NPM)
-      - Git
-      - Your favorite IDE
+
 
   -
     slug: vue-vixens-workshop-verona
     title: Vue Vixens Workshop for Women
-    when: April 4th 2020, Verona
+    when: April 4th 2020 
     timetable: Check-in 9:30 - 10:00 / Workshop 10:00 - 17:00 (lunch and coffee breaks included)
-    where: Hotel San Marco, Via Longhena 42, 37138, Verona, Italy
-    map: https://goo.gl/maps/iqQ6n6bNAf72
+    where: 
+    map: 
     tickets: https://vuevixens-verona2020.eventbrite.it
     language: english / italian
     teachers:
