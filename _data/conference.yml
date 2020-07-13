@@ -3,14 +3,14 @@ og_image: http://2020.vueday.it/img/themes/vueday/background_fb.jpg
 og_description: VueDay the first international conference in Italy entirely about Vue.js
 slug: vueday
 url: https://2020.vueday.it
-where_when: Verona, September 15th 2020
+where_when: ONLINE, September 15th 2020
 year: 2020
 since: 2019
 call_for_paper_url: https://forms.gle/9zMKdHNGJRJks62k8
 call_for_paper: false
 workshops_available: true
 talks_available: true
-schedule_available: true
+schedule_available: false
 scholarship_available: true
 
 iubenda:
