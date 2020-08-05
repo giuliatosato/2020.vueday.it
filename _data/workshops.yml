@@ -2,10 +2,10 @@ list:
   -
     slug: nuxtjs-the-beginners-workshop
     title: Nuxt.js - The Beginners Workshop
-    when: April 4th 2020
-    timetable: Check-in 9:00 - 9:30 / Workshop 9:30 - 18:00 (lunch and coffee breaks included)
-    where: 
-    map:
+    when: Monday, September 21st and Wednesday, September 23rd 2020. 
+    timetable: TBD
+    where: ONLINE
+    map: 
     tickets: https://vueday-2020.eventbrite.com/
     language: english
     teachers:
@@ -62,8 +62,8 @@ list:
   -
     slug: vue-vixens-workshop-verona
     title: Vue Vixens Workshop for Women
-    when: April 4th 2020 
-    timetable: Check-in 9:30 - 10:00 / Workshop 10:00 - 17:00 (lunch and coffee breaks included)
+    when: 
+    timetable: 
     where: 
     map: 
     tickets: https://vuevixens-verona2020.eventbrite.it
