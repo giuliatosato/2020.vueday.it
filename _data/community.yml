@@ -70,3 +70,13 @@ list:
     name: Vue.js Vienna
     image: vuejs-vienna.svg
     site: https://www.vuejs-vienna.org/#/
+
+  -
+    name: Gamedev.js
+    image: gamedevjs.svg
+    site: https://gamedevjs.pl/
+
+  -
+    name: js13kGames
+    image: js13kgames.svg
+    site: https://js13kgames.com/
