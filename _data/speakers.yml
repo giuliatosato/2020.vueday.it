@@ -60,17 +60,17 @@ list:
     first_name: Alexander
     last_name: Lichter
     twitter: TheAlexLichter
-  -
-    id: ethan-lipkind
-    description: >
-      Ethan is a software engineer at the New York Times, where he works to solve a wide range of technical challenges
-      related to customer care. Ethan is passionate about education, and teaches computer science through volunteer
-      organizations around New York City including Code Nation and the Marcy Lab School. When he’s not coding, he enjoys
-      playing guitar, chess, and rock climbing.
-    image: ethan-lipkind.jpg
-    first_name: Ethan
-    last_name: Lipkind
-    twitter:
+#  -
+#    id: ethan-lipkind
+#    description: >
+#      Ethan is a software engineer at the New York Times, where he works to solve a wide range of technical challenges
+#      related to customer care. Ethan is passionate about education, and teaches computer science through volunteer
+#      organizations around New York City including Code Nation and the Marcy Lab School. When he’s not coding, he enjoys
+#      playing guitar, chess, and rock climbing.
+#    image: ethan-lipkind.jpg
+#    first_name: Ethan
+#    last_name: Lipkind
+#    twitter:
   -
     id: naomi-meyer
     description: >
