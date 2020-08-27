@@ -60,17 +60,17 @@ list:
     first_name: Alexander
     last_name: Lichter
     twitter: TheAlexLichter
-  -
-    id: ethan-lipkind
-    description: >
-      Ethan is a software engineer at the New York Times, where he works to solve a wide range of technical challenges
-      related to customer care. Ethan is passionate about education, and teaches computer science through volunteer
-      organizations around New York City including Code Nation and the Marcy Lab School. When he’s not coding, he enjoys
-      playing guitar, chess, and rock climbing.
-    image: ethan-lipkind.jpg
-    first_name: Ethan
-    last_name: Lipkind
-    twitter:
+#  -
+#    id: ethan-lipkind
+#    description: >
+#      Ethan is a software engineer at the New York Times, where he works to solve a wide range of technical challenges
+#      related to customer care. Ethan is passionate about education, and teaches computer science through volunteer
+#      organizations around New York City including Code Nation and the Marcy Lab School. When he’s not coding, he enjoys
+#      playing guitar, chess, and rock climbing.
+#    image: ethan-lipkind.jpg
+#     first_name: Ethan
+#    last_name: Lipkind
+#    twitter:
   -
     id: naomi-meyer
     description: >
@@ -82,14 +82,14 @@ list:
     first_name: Naomi
     last_name: Meyer
     twitter: nae_ohmi
-  -
-    id: patryk-tomczyk
-    description: >
-      Core Team Member of Vue Storefront, Tech Lead at Divante. 
-      I love to have a very deep understanding of all of the architectural aspects and put the pieces together. 
-      Thanks to this, I can share knowledge and help others to improve their skills. 
-      In my spare time, I like hiking, riding a motorcycle and occasionally climb somewhere.
-    image: patryk-tomczyk.jpg
-    first_name: Patryk
-    last_name: Tomczyk
-    twitter: tomczykpatryk    
+#  -
+#    id: patryk-tomczyk
+#    description: >
+#      Core Team Member of Vue Storefront, Tech Lead at Divante. 
+#      I love to have a very deep understanding of all of the architectural aspects and put the pieces together. 
+#      Thanks to this, I can share knowledge and help others to improve their skills. 
+#      In my spare time, I like hiking, riding a motorcycle and occasionally climb somewhere.
+#    image: patryk-tomczyk.jpg
+#    first_name: Patryk
+#    last_name: Tomczyk
+#    twitter: tomczykpatryk    
