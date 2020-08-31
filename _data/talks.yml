@@ -29,11 +29,11 @@
     file is processed. But also I will present some interesting features that set VuePress apart in the ecosystem because
     if set up correctly VuePress can be very powerful.
     Magic is awesome but magic is even better when is explained :)
--
-  speaker_id: guillaume-chau
-  title: Apollo + Vue Composition API
-  extract: >
-    Introduction to using the vue-apollo Composition API
+#-
+#  speaker_id: guillaume-chau
+#  title: Apollo + Vue Composition API
+#  extract: >
+#    Introduction to using the vue-apollo Composition API
 -
   speaker_id: cristi-jora
   title: Rapid development with Vue.js and Tailwind
