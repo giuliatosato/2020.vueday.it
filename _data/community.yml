@@ -6,6 +6,17 @@ list:
     name: Alicante Frontend
     image: alicantefrontend.svg
     site: https://www.alicantefrontend.es/
+
+  -
+    name: Gamedev.js
+    image: gamedevjs.svg
+    site: https://gamedevjs.pl/
+
+  -
+    name: js13kGames
+    image: js13kgames.svg
+    site: https://js13kgames.com/
+
   -
     name: Vue.js Athens
     image: vuejs-athens.svg
