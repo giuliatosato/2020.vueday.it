@@ -28,18 +28,18 @@ list:
     first_name: Ramona
     last_name: Biscoveanu
     twitter: codesOfRa
-  -
-    id: guillaume-chau
-    description: >
-      Member of the VueJS core team and Apollo GraphQL contributor. Working on official tools like vue-devtools, vue-cli,
-      vue-cli-ui, vue-curated... Creator of the integrations of VueJS with Meteor (vue-meteor) and Apollo GraphQL
-      (vue-apollo) to help developers build highly interactive and real-time web apps. Contributing to the Open Source
-      community with tools like vue-virtual-scroller, vue-supply... Doing talks to introduce these cutting-edge
-      technologies to a larger audience.
-    image: guillaume-chau.jpg
-    first_name: Guillaume
-    last_name: Chau
-    twitter: Akryum
+#  -
+#    id: guillaume-chau
+#    description: >
+#      Member of the VueJS core team and Apollo GraphQL contributor. Working on official tools like vue-devtools, vue-cli,
+#      vue-cli-ui, vue-curated... Creator of the integrations of VueJS with Meteor (vue-meteor) and Apollo GraphQL
+#      (vue-apollo) to help developers build highly interactive and real-time web apps. Contributing to the Open Source
+#      community with tools like vue-virtual-scroller, vue-supply... Doing talks to introduce these cutting-edge
+#      technologies to a larger audience.
+#    image: guillaume-chau.jpg
+#    first_name: Guillaume
+#    last_name: Chau
+#    twitter: Akryum
   -
     id: cristi-jora
     description: >
